@@ -8,7 +8,7 @@
 
 Nandhitha V N 
 🎓 2nd Year Student
-📚 Cybersecurity & Ethical Hacking
+📚 B.sc Forensic science
 
 ---
 
