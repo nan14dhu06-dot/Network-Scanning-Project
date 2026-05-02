@@ -62,7 +62,8 @@ Steps:
 
 «📌 Add your screenshot in the repo and update the file name below»
 
-![Scan Result](scan-output.png)
+![Scan Result](scan-output.png)<img width="900" height="1600" alt="WhatsApp Image 2026-05-02 at 9 38 55 PM" src="https://github.com/user-attachments/assets/47661ec6-97ce-4cb3-be7f-ab8753826422" />
+
 
 📝 Explanation
 
